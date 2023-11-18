@@ -1,0 +1,18 @@
+{
+    "name": "artyr-yamaliev/composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ArtyrYamaliev\\ComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AYamaliev",
+            "email": "sevrevdan@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
